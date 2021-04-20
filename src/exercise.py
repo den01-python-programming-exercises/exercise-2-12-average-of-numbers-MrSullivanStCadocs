@@ -14,7 +14,7 @@ def main():
         amountOfNumbers = amountOfNumbers + 1
         sumOfNumbers = sumOfNumbers + number
     
-    print("Average of the numbers: " + str(sumOfNumbers/amountOfNumbers))
+    print("Average of numbers: " + str(sumOfNumbers/amountOfNumbers))
 
 if __name__ == '__main__':
     main()
